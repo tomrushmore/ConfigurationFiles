@@ -1,2 +1,2 @@
 # ConfigurationFiles
-Bash and VIM rc files
+Bash and vim .rc 
