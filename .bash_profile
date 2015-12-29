@@ -1,0 +1,13 @@
+alias ..='cd ..'
+alias doc='cd /Users/tom/Documents'
+alias dsk='cd /Users/tom/Desktop'
+alias flac_check='find /Users/tom/Music/ -type f -name '*.flac' -print0 | xargs -0 -P 8 -n 1 flac -wst > flac_error_log.txt'
+alias ls='ls -all'
+alias music='cd /Users/tom/Music'
+alias pip='pip3'
+alias prog='cd /Users/tom/Programming'
+alias python='python3'
+alias q='/Users/tom/q/m32/q'
+alias tree_d='tree -d'
+alias tree_dl='tree -d -L'
+alias
